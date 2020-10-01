@@ -24,3 +24,21 @@ if __name__ == "__main__":
     for a1, a2 in zip(list1, list2):
         print(a1)
         print(a2)
+        
+    while loop
+    x = 0
+    while(x<10):
+        print(x)
+        x = x+1
+    # output
+    0
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    
