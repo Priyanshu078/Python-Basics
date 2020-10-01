@@ -31,5 +31,5 @@ if __name__ == "__main__":
     # The following table describes each type's properties
     #           Ordered         Unordered
     # Mutable   list [1,2,3]    set {1,2,3}
-    # Immutable str "abc"
-    #           tuple (1,2,3)
+    # String is Immutable "abc"
+    # tuple is immutable (1,2,3)
